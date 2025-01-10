@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Exploring the depths of Application Security<br>💻 Penetration Tester & Red Teamer<br>🛠️ Building security tools & sharing knowledge<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900</p>
+<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Working on publishing my Technical blogs and Upskilling in Cybersecurity <br>💻 Penetration Tester & Red Teamer<br>🛠️ Building security tools & sharing knowledge<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900,, OSCP (Upcoming 😓)</p>
 
 ###
 
