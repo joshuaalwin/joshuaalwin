@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Josh – Offensive Security Professional | Cybersecurity Master's Student | Application Security Enthusiast</h2>
+<h2 align="left">👋 Hi, I'm Josh – Welcome to my Portfolio!</h2>
 
 ###
 
