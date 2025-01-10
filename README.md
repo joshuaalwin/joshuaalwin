@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Working on publishing my Technical blogs and Upskilling in Application Security <br>💻 Penetration Tester & Red Teamer<br>🛠️ Currently trying to learn Rust and studying to take the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
+<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Working on publishing my Technical blogs and Upskilling in Application Security <br>💻 Penetration Tester & Red Teamer<br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
 
 ###
 
