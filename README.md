@@ -53,10 +53,7 @@
 </div>
 
 ###
-
-
-
-
+<h2 align="left">Some Statistics</h2>
 ###
 
 <div align="center">
