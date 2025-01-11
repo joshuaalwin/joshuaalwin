@@ -1,53 +1,10 @@
-<h2 align="left">👋 Hi, I'm Josh – Welcome to my profile 😇</h2>
+<h2 align="left">👋 Hi, I'm Josh – Welcome to my Github. 😇</h2>
 
-<h2 align="left">🔒 About Me</h2>
-<p align="left">
-I'm a Cybersecurity Professional pursuing a Master's in Cybersecurity at the University of Maryland. My passion lies in Penetration Testing, exploring advanced attack paths, and contributing to the cybersecurity community through technical blogs. I strive to continuously sharpen my skillset and stay updated with the latest in the field.
-</p>
+###
 
-<h2 align="left">💼 Work Experience</h2>
-<p align="left">
-- <b>Cybersecurity Consultant and Penetration Tester</b> at KPMG India <br>
-  Conducted vulnerability assessments, penetration tests, and provided security solutions for diverse industries including banking, healthcare, and government.
-</p>
-<p align="left">
-- <b>Teaching Assistant</b> (part-time) for Cloud Security <br>
-  Assisting students in understanding cloud security concepts and practical implementations.
-</p>
+<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
 
-<h2 align="left">📚 Education & Certifications</h2>
-<p align="left">
-- <b>Master's in Cybersecurity</b> @ University of Maryland <br>
-  Coursework includes Binary Exploitation, Penetration Testing, and Cloud Security.
-</p>
-<p align="left">
-- <b>Certifications:</b> <br>
-  - Certified Red Team Professional (CRTP) <br>
-  - Certified Ethical Hacker (CEH) <br>
-  - eLearnSecurity Junior Penetration Tester (eJPT) <br>
-  - Certified Authorization Professional (CAP) <br>
-  - CMPEN, AZ900, SC900
-</p>
-
-<h2 align="left">💻 Skills</h2>
-<p align="left">
-- <b>Languages:</b> Python, Bash, PowerShell, Rust (learning) <br>
-- <b>Specialties:</b> Penetration Testing, Vulnerability Assessments, Secure Development, Red Teaming <br>
-- <b>OS Expertise:</b> Linux, Windows, macOS
-</p>
-
-<h2 align="left">🛠️ Current Focus</h2>
-<p align="left">
-- Learning <b>Rust</b> for secure systems programming. <br>
-- Preparing for the <b>Offensive Security Certified Professional (OSCP)</b> certification. <br>
-- Publishing technical blogs on penetration testing and advanced attack techniques.
-</p>
-
-<h2 align="left">☕ When I'm Not Hacking</h2>
-<p align="left">
-I enjoy exploring new tools and frameworks, experimenting with home automation, and staying active in cybersecurity forums and CTF competitions.
-</p>
-
+###
 
 <br clear="both">
 
