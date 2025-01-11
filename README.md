@@ -4,26 +4,6 @@
 
 <p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Programming%20Languages" height="160" alt="languages graph"  />
-</div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
 
 <h2 align="left">Tech Stack</h2>
 
@@ -60,6 +40,29 @@
 </div>
 
 ###
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Programming%20Languages" height="160" alt="languages graph"  />
+</div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+
 
 <h2 align="left">My Socials</h2>
 
