@@ -6,7 +6,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
