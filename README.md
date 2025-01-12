@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hi, I'm Josh – Welcome to my Github. 😇</h2>
 
 ###
-<h2 align="left"> Some Information about me! </h2>
-<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br><br>🏢 Former Cybersecurity Consultant at KPMG India <br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
+
+<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🏢 Former Cybersecurity Consultant at KPMG India <br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
 
 ###
 
