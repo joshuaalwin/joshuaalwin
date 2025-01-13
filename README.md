@@ -1,5 +1,5 @@
 ```bash
-Hello World
+>> whoami
 ```
 
 <h2 align="left">👨‍💻 About Me</h2>
