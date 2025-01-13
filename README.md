@@ -1,9 +1,7 @@
 # Hello, I'm Josh! 
 
-<h1 align="left">👨‍💻 About Me</h1>
+<h2 align="left">👨‍💻 About Me</h2>
 I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
-
-<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ---
 
@@ -74,6 +72,8 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
   <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Programming%20Languages" height="160" alt="languages graph" />
 </div>
+
+<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ---
 
