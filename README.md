@@ -4,6 +4,8 @@
 <h1 align="left">👨‍💻 About Me</h1>
 I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
+<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
 ---
 
 <h2 align="left">💼 Experience</h2>
@@ -56,13 +58,13 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 ---
 
 <h2 align="left">📰 Certifications</h2>
-• **CRTP (Certified Red Team Professional)** <br>
-• **CEH (Certified Ethical Hacker) v11 Practical** <br>  
-• **eJPT (eLearnSecurity Junior Penetration Tester)** <br> 
-• **CAP (Certified Authorization Professional)** <br> 
-• **CMPEN (Certified Mobile Penetration Tester)** <br> 
-• **AZ-900 (Microsoft Azure Fundamentals)** <br> 
-• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)** <br> 
+• Certified Red Team Professional (CRTP) <br>
+• Certified Ethical Hacker (CEH) v11 Practical <br>  
+• eLearnSecurity Junior Penetration Tester (eJPT) <br> 
+• Certified Application Security Professional (CAP) <br> 
+• Certified Mobile Penetration Tester (CMPEN-iOS) <br> 
+• Microsoft Certified: Azure Fundamentals (AZ-900) <br> 
+• Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) <br> 
 
 ---
 
