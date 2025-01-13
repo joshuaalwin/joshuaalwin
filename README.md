@@ -1,5 +1,6 @@
 # Hello, I'm Josh! 
 
+---
 <h1 align="left">👨‍💻 About Me</h1>
 I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
@@ -10,24 +11,6 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 • ☁️ Teaching Assistant for ENPM665 - Cloud Security <br>
 • 🏢 Former Cybersecurity Consultant at KPMG LLP <br>
 • 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security <br>  
-
----
-<h2 align="left">🛠️ What am I upto now?</h2>
-• Publishing technical blogs on cybersecurity topics <br>
-• Sharpening my skillset in Penetration Testing  <br>
-• Learning Rust programming language  <br>
-• Studying for the **Offensive Security Certified Professional (OSCP)** Certification <br>
-
----
-
-<h2 align="left">📰 Certifications</h2>
-• **CRTP (Certified Red Team Professional)**  
-• **CEH (Certified Ethical Hacker) v11 Practical **  
-• **eJPT (eLearnSecurity Junior Penetration Tester)**  
-• **CAP (Certified Authorization Professional)**  
-• **CMPEN (Certified Mobile Penetration Tester)**  
-• **AZ-900 (Microsoft Azure Fundamentals)**  
-• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
 
 ---
 
@@ -64,6 +47,26 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 </div>
 
 ###
+
+---
+<h2 align="left">🛠️ What am I upto now?</h2>
+• Publishing technical blogs on cybersecurity topics <br>
+• Sharpening my skillset in Penetration Testing  <br>
+• Learning Rust programming language  <br>
+• Studying for the **Offensive Security Certified Professional (OSCP)** Certification <br>
+
+---
+
+<h2 align="left">📰 Certifications</h2>
+• **CRTP (Certified Red Team Professional)**  
+• **CEH (Certified Ethical Hacker) v11 Practical **  
+• **eJPT (eLearnSecurity Junior Penetration Tester)**  
+• **CAP (Certified Authorization Professional)**  
+• **CMPEN (Certified Mobile Penetration Tester)**  
+• **AZ-900 (Microsoft Azure Fundamentals)**  
+• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
+
+---
 
 <h2 align="left">Statistics</h2>
 
