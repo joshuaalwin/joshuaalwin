@@ -69,8 +69,8 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 <h2 align="left">📈 Statistics</h2>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="160" alt="stats graph" /> <br> <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=Programming%20Languages" height="160" alt="languages graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="155" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&custom_title=Programming%20Languages" height="155" alt="languages graph" /><br>
 </div>
 
 <img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
