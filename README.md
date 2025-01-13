@@ -70,7 +70,7 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 
 
 <h2 align="left">🌐 My Socials</h2>
-I'm always open to collaborative projects or discussions about all things Cybersecurity. Whether you're interested in brainstorming ideas, sharing knowledge, or diving deep into technical topics for hours, feel free to reach out. Let's connect and build something amazing together!
+I'm always open to collaborative projects or discussions about all things Cybersecurity. Whether you're interested in brainstorming ideas, sharing knowledge, or diving deep into technical topics for hours, feel free to reach out. Let's connect and build something amazing together! br>
 
 <div align="left">
   <a href="https://linkedin.com/in/joshuaalwin" target="_blank">
@@ -86,7 +86,9 @@ I'm always open to collaborative projects or discussions about all things Cybers
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+<br>
 
+"Keep hacking, stay curious, and never stop exploring the unknown." - T3rminux
 
 <img align="left" height="285" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQyejgyN2xiNXVsc3h3bG9pdnQxbmoyczl6cjB6dDZmNGh0cmxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp"  />
 
