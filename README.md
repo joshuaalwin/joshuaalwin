@@ -3,8 +3,6 @@
 <h2 align="left">👨‍💻 About Me</h2>
 I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
----
-
 <h2 align="left">💼 Experience</h2>
 • 👨‍🎓 Master's in Cybersecurity @ University of Maryland <br>
 • ☁️ Teaching Assistant for ENPM665 - Cloud Security <br>
