@@ -6,17 +6,17 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 ---
 
 <h2 align="left">💼 Experience</h2>
-👨‍🎓 Master's in Cybersecurity @ University of Maryland 
-☁️ Teaching Assistant for ENPM665 - Cloud Security 
-🏢 Former Cybersecurity Consultant at KPMG LLP
-💻 Experienced in Penetration Testing, Red Teaming and Cloud Security  
+- 👨‍🎓 Master's in Cybersecurity @ University of Maryland 
+- ☁️ Teaching Assistant for ENPM665 - Cloud Security 
+- 🏢 Former Cybersecurity Consultant at KPMG LLP
+- 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security  
 
 ---
 <h2 align="left">🛠️ What am I upto now?</h2>
-- Publishing technical blogs on cybersecurity topics  
-- Sharpening my skillset in Penetration Testing  
-- Learning Rust programming language  
-- Studying for the **Offensive Security Certified Professional (OSCP)** Certification  
+* Publishing technical blogs on cybersecurity topics  
+* Sharpening my skillset in Penetration Testing  
+* Learning Rust programming language  
+* Studying for the **Offensive Security Certified Professional (OSCP)** Certification  
 
 ---
 
