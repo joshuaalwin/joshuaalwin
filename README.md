@@ -7,7 +7,7 @@ I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Pr
 • 👨‍🎓 Master's in Cybersecurity @ University of Maryland <br>
 • ☁️ Teaching Assistant for ENPM665 - Cloud Security <br>
 • 🏢 Former Cybersecurity Consultant at KPMG LLP <br>
-• 💻 Experienced in Penetration Testing (Application Security, Network Security, Mobile Security), Red Teaming and Cloud Security <br>  
+• 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security <br>  
 
 
 <h2 align="left">🛠️ Technical SkillSet</h2>
