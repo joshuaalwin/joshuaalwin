@@ -58,7 +58,6 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 • Microsoft Certified: Azure Fundamentals (AZ-900) <br> 
 • Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) <br> 
 
----
 
 <h2 align="left">📈 Statistics</h2>
 
@@ -69,11 +68,9 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 
 <img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
----
 
-<h2 align="left">My Socials</h2>
-
-###
+<h2 align="left">🌐 My Socials</h2>
+I'm always open to collaborative projects or discussions about all things Cybersecurity. Whether you're interested in brainstorming ideas, sharing knowledge, or diving deep into technical topics for hours, feel free to reach out. Let's connect and build something amazing together!
 
 <div align="left">
   <a href="https://linkedin.com/in/joshuaalwin" target="_blank">
@@ -89,8 +86,6 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
 
 
 <img align="left" height="285" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQyejgyN2xiNXVsc3h3bG9pdnQxbmoyczl6cjB6dDZmNGh0cmxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp"  />
