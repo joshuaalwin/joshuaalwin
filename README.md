@@ -46,8 +46,6 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
 </div>
 
-###
-
 ---
 <h2 align="left">🛠️ What am I upto now?</h2>
 • Publishing technical blogs on cybersecurity topics <br>
@@ -58,13 +56,13 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 ---
 
 <h2 align="left">📰 Certifications</h2>
-• **CRTP (Certified Red Team Professional)**  
-• **CEH (Certified Ethical Hacker) v11 Practical **  
-• **eJPT (eLearnSecurity Junior Penetration Tester)**  
-• **CAP (Certified Authorization Professional)**  
-• **CMPEN (Certified Mobile Penetration Tester)**  
-• **AZ-900 (Microsoft Azure Fundamentals)**  
-• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
+• **CRTP (Certified Red Team Professional)** <br>
+• **CEH (Certified Ethical Hacker) v11 Practical** <br>  
+• **eJPT (eLearnSecurity Junior Penetration Tester)** <br> 
+• **CAP (Certified Authorization Professional)** <br> 
+• **CMPEN (Certified Mobile Penetration Tester)** <br> 
+• **AZ-900 (Microsoft Azure Fundamentals)** <br> 
+• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)** <br> 
 
 ---
 
@@ -75,7 +73,7 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Programming%20Languages" height="160" alt="languages graph" />
 </div>
 
-###
+---
 
 <h2 align="left">My Socials</h2>
 
