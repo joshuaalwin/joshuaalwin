@@ -91,4 +91,4 @@ I'm always open to collaborative projects or discussions about all things Cybers
 
 <img align="left" height="285" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQyejgyN2xiNXVsc3h3bG9pdnQxbmoyczl6cjB6dDZmNGh0cmxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" />
 
-<br><br><br><br><br><br><br><br><br><br>"Keep hacking, stay curious, and never stop exploring the unknown." - T3rminux
+<br><br><br><br><br><br><br><br><br><br><br><br>""Keep hacking, stay curious, and never stop exploring the unknown." - T3rminux
