@@ -1,21 +1,30 @@
-<h2 align="left">👋 Hi, I'm Josh – Welcome to my Github. 😇</h2>
+# About Me
 
-###
+---
 
-<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🏢 Former Cybersecurity Consultant at KPMG India <br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
+### 🔒 Cybersecurity Professional  
+👨‍🎓 Master's in Cybersecurity @ University of Maryland  
+🏢 Former Cybersecurity Consultant at KPMG India  
+💻 Experienced in Penetration Testing, Security Assessments, and Red Teaming  
 
-###
+---
 
-<br clear="both">
+### 🛠️ Current Endeavors  
+- Publishing technical blogs on cybersecurity topics  
+- Sharpening my skillset in Penetration Testing  
+- Learning Rust programming language  
+- Studying for the **Offensive Security Certified Professional (OSCP)** Certification  
 
-<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
+---
 
-###
-
-<div align="left">
-</div>
-
-###
+### 📜 Certifications  
+- **CRTP (Certified Red Team Professional)**  
+- **CEH (Certified Ethical Hacker)**  
+- **eJPT (eLearnSecurity Junior Penetration Tester)**  
+- **CAP (Certified Authorization Professional)**  
+- **CMPEN (Certified Mobile Penetration Tester)**  
+- **AZ-900 (Microsoft Azure Fundamentals)**  
+- **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
 
 
 <div align="left">
