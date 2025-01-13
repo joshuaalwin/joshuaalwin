@@ -9,7 +9,6 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 • 🏢 Former Cybersecurity Consultant at KPMG LLP <br>
 • 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security <br>  
 
----
 
 <h2 align="left">🛠️ Technical SkillSet</h2>
 
@@ -43,15 +42,12 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
 </div>
 
----
 <h2 align="left">🛠️ What am I upto now?</h2>
 • Working on publishing technical blogs on my Medium blog page on offensive security topics <br>
-• Sharpening my practical skillset in Cloud Security <br>
-• Reading techincal blogs, writeups and taking part in CTFs to improve my expertise in Application Security Testing<br>
-• Learning Rust programming language <br>
+• Reading techincal blogs, writeups and taking part in CTF challenges to improve my Penetration testing skills in all aspepcts<br>
+• Sharpening my knowledge in Cloud Security via practical labs in AWS/Azure/GCP  <br>
 • Studying for the Offensive Security Certified Professional (OSCP) and AWS Security Speciality Certifications <br>
 
----
 
 <h2 align="left">📰 Certifications</h2>
 • Certified Red Team Professional (CRTP) <br>
