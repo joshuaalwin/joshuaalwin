@@ -1,6 +1,5 @@
 # Hello, I'm Josh! 
 
----
 <h1 align="left">👨‍💻 About Me</h1>
 I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
@@ -50,10 +49,11 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 
 ---
 <h2 align="left">🛠️ What am I upto now?</h2>
-• Publishing technical blogs on cybersecurity topics <br>
-• Sharpening my skillset in Penetration Testing  <br>
-• Learning Rust programming language  <br>
-• Studying for the **Offensive Security Certified Professional (OSCP)** Certification <br>
+• Working on publishing technical blogs on my Medium blog page on offensive security topics <br>
+• Sharpening my practical skillset in Cloud Security <br>
+• Reading techincal blogs, writeups and taking part in CTFs to improve my expertise in Application Security Testing<br>
+• Learning Rust programming language <br>
+• Studying for the Offensive Security Certified Professional (OSCP) and AWS Security Speciality Certifications <br>
 
 ---
 
