@@ -1,8 +1,6 @@
 ```bash
 >> whoami
 ```
-
-<h2 align="left">👨‍💻 About Me</h2>
 I'm T3rminux aka Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus in Offensive Security, Penetration Testing. I am passionate about all things Cybersecurity and I love learning and exploring various ways one can secure a infrastructure/Cloud Security through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
 <h2 align="left">💼 Experience</h2>
