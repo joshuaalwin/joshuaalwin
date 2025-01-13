@@ -1,7 +1,7 @@
 <h1 align="left">Hello World</h1>
 
 <h2 align="left">👨‍💻 About Me</h2>
-I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Professional specializing in Offensive Security. Driven by an insatiable curiosity for cybersecurity, I actively explore technical blogs, engage in hacking forum discussions, and tackle CTF challenges to continually expand my knowledge. My daily goal is to master new tools, techniques, and tactics, staying ahead in this ever-evolving field <br> <br> When I'm not on the computer, you would catch me drinking a cup of coffee and watching my favourite anime! ☕😇
+I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Professional specializing in Offensive Security. Driven by an insatiable curiosity for cybersecurity, I actively explore technical blogs, engage in hacking forum discussions, and tackle CTF challenges to continually expand my knowledge. My daily goal is to master new tools, techniques, and tactics, staying ahead in this dynamic field. <br> <br> When I'm not on the computer, you would catch me drinking a cup of coffee and watching my favourite anime! ☕😇
 
 <h2 align="left">💼 Experience</h2>
 • 👨‍🎓 Master's in Cybersecurity @ University of Maryland <br>
