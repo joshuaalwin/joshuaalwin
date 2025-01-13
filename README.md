@@ -70,7 +70,7 @@ I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Pr
 
 
 <h2 align="left">🌐 My Socials</h2>
-I'm always open to collaborative projects or discussions about all things Cybersecurity. Whether you're interested in brainstorming ideas, sharing knowledge, or diving deep into technical topics for hours, feel free to reach out. Let's connect and build something amazing together! br>
+I'm always open to collaborative projects or discussions about all things Cybersecurity. Whether you're interested in brainstorming ideas, sharing knowledge, or diving deep into technical topics for hours, feel free to reach out. Let's connect and build something amazing together! <br>
 
 <div align="left">
   <a href="https://linkedin.com/in/joshuaalwin" target="_blank">
