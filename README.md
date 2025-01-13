@@ -1,26 +1,22 @@
-<h2 align="left">👾 Welcome to Josh's Terminal</h2>
-
-```bash
-# whoami
-> Cybersecurity Professional | Master's in Cybersecurity @ University of Maryland
-
-# cat /experience.txt
-> 🏢 Former Cybersecurity Consultant @ KPMG India  
-> 🛜 Specialized in Penetration Testing, Red Teaming, and Application Security  
-
-# cat /current_focus.txt
-> 🛠️ Publishing technical blogs and sharpening my skills in advanced security domains  
-> 🦀 Exploring Rust and preparing for the Offensive Security Certified Professional (OSCP) certification  
-
-# ls /certifications
-> 📜 CRTP  CEH  eJPT  CAP  CMPEN  AZ-900  SC-900
-
-# echo "Always learning. Always hacking. Always securing."
-> 🌐 Feel free to explore my repos and connect for collaboration!a
-
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">👋 Hi, I'm Josh – Welcome to my Github. 😇</h2>
 
 ###
+
+<p align="left">🔒 Cybersecurity Professional<br>👨‍🎓 Master's in Cybersecurity @ University of Maryland<br>🏢 Former Cybersecurity Consultant at KPMG India <br>🛜 Working on publishing my Technical blogs and Sharpening my skillset in Penetration Testing <br>💻 Former Cybersecurity Consultant and Penetration Tester at KPMG India <br>🛠️ Currently trying to learn Rust and studying for the Offensive Security Certified Professional (OSCP) Certification<br>📜 Certifications: CRTP, CEH, eJPT, CAP, CMPEN, AZ900, SC900 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
