@@ -1,5 +1,5 @@
 ```bash
-echo ("Hello World)
+Hello World
 ```
 
 <h2 align="left">👨‍💻 About Me</h2>
