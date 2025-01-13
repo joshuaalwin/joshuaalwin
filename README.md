@@ -6,28 +6,28 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong
 ---
 
 <h2 align="left">💼 Experience</h2>
-- 👨‍🎓 Master's in Cybersecurity @ University of Maryland 
-- ☁️ Teaching Assistant for ENPM665 - Cloud Security 
-- 🏢 Former Cybersecurity Consultant at KPMG LLP
-- 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security  
+• 👨‍🎓 Master's in Cybersecurity @ University of Maryland <br>
+• ☁️ Teaching Assistant for ENPM665 - Cloud Security <br>
+• 🏢 Former Cybersecurity Consultant at KPMG LLP <br>
+• 💻 Experienced in Penetration Testing, Red Teaming and Cloud Security <br>  
 
 ---
 <h2 align="left">🛠️ What am I upto now?</h2>
-* Publishing technical blogs on cybersecurity topics  
-* Sharpening my skillset in Penetration Testing  
-* Learning Rust programming language  
-* Studying for the **Offensive Security Certified Professional (OSCP)** Certification  
+• Publishing technical blogs on cybersecurity topics <br>
+• Sharpening my skillset in Penetration Testing  <br>
+• Learning Rust programming language  <br>
+• Studying for the **Offensive Security Certified Professional (OSCP)** Certification <br>
 
 ---
 
 <h2 align="left">📰 Certifications</h2>
-- **CRTP (Certified Red Team Professional)**  
-- **CEH (Certified Ethical Hacker)**  
-- **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- **CAP (Certified Authorization Professional)**  
-- **CMPEN (Certified Mobile Penetration Tester)**  
-- **AZ-900 (Microsoft Azure Fundamentals)**  
-- **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
+• **CRTP (Certified Red Team Professional)**  
+• **CEH (Certified Ethical Hacker) v11 Practical **  
+• **eJPT (eLearnSecurity Junior Penetration Tester)**  
+• **CAP (Certified Authorization Professional)**  
+• **CMPEN (Certified Mobile Penetration Tester)**  
+• **AZ-900 (Microsoft Azure Fundamentals)**  
+• **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
 
 ---
 
