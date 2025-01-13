@@ -1,7 +1,9 @@
-# Hello, I'm Josh! 
+```bash
+echo ("Hello World)
+```
 
 <h2 align="left">👨‍💻 About Me</h2>
-I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
+I'm T3rminux aka Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus in Offensive Security, Penetration Testing. I am passionate about all things Cybersecurity and I love learning and exploring various ways one can secure a infrastructure/Cloud Security through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
 <h2 align="left">💼 Experience</h2>
 • 👨‍🎓 Master's in Cybersecurity @ University of Maryland <br>
@@ -88,8 +90,6 @@ I'm always open to collaborative projects or discussions about all things Cybers
 </div>
 <br>
 
-"Keep hacking, stay curious, and never stop exploring the unknown." - T3rminux
 
 <img align="left" height="285" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQyejgyN2xiNXVsc3h3bG9pdnQxbmoyczl6cjB6dDZmNGh0cmxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp"  />
-
-###
+"Keep hacking, stay curious, and never stop exploring the unknown." - T3rminux
