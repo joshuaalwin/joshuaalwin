@@ -1,15 +1,18 @@
-# About Me
+# Hello, I'm Josh! 
+
+<h1 align="left">👨‍💻 About Me</h1>
+I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional with a strong focus on Offensive Security and Penetration Testing. I am passionate about constantly learning and honing my expertise through hands-on practice on cybersecurity learning platforms, technical blogs, and certifications.
 
 ---
 
-### 🔒 Cybersecurity Professional  
-👨‍🎓 Master's in Cybersecurity @ University of Maryland  
-🏢 Former Cybersecurity Consultant at KPMG India  
-💻 Experienced in Penetration Testing, Security Assessments, and Red Teaming  
+<h2 align="left">💼 Experience</h2>
+👨‍🎓 Master's in Cybersecurity @ University of Maryland 
+☁️ Teaching Assistant for ENPM665 - Cloud Security 
+🏢 Former Cybersecurity Consultant at KPMG LLP
+💻 Experienced in Penetration Testing, Red Teaming and Cloud Security  
 
 ---
-
-### 🛠️ Current Endeavors  
+<h2 align="left">🛠️ What am I upto now?</h2>
 - Publishing technical blogs on cybersecurity topics  
 - Sharpening my skillset in Penetration Testing  
 - Learning Rust programming language  
@@ -17,7 +20,7 @@
 
 ---
 
-### 📜 Certifications  
+<h2 align="left">📰 Certifications</h2>
 - **CRTP (Certified Red Team Professional)**  
 - **CEH (Certified Ethical Hacker)**  
 - **eJPT (eLearnSecurity Junior Penetration Tester)**  
@@ -26,6 +29,9 @@
 - **AZ-900 (Microsoft Azure Fundamentals)**  
 - **SC-900 (Microsoft Security, Compliance, and Identity Fundamentals)**  
 
+---
+
+<h2 align="left">🛠️ Technical SkillSet</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -59,7 +65,7 @@
 
 ###
 
-<h2 align="left">Some Statistics</h2>
+<h2 align="left">Statistics</h2>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=joshuaalwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Josh's%20Github%20Stats" height="160" alt="stats graph" />
