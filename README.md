@@ -42,7 +42,7 @@ I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Pr
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
 </div>
 
-<h2 align="left">🛠️ What am I upto now?</h2>
+<h2 align="left">🛠️ What am I currently upto now?</h2>
 • Working on publishing technical blogs on my Medium blog page on offensive security topics <br>
 • Reading techincal blogs, writeups and taking part in CTF challenges to improve my Penetration testing skills in all aspepcts<br>
 • Sharpening my knowledge in Cloud Security via practical labs in AWS/Azure/GCP  <br>
