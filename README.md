@@ -54,7 +54,7 @@ I'm Joshua Alwin, also known as T3rminux, an Ethical Hacker and Cybersecurity Pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaalwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&custom_title=Programming%20Languages" height="155" alt="languages graph" /><br>
 </div>
 
-<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-light.svg" alt="Snake animation" />
+<img src="https://github.com/joshuaalwin/joshuaalwin/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 
 <h2 align="left">🌐 My Socials</h2>
