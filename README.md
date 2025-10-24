@@ -38,6 +38,7 @@ I'm Joshua Alwin, an Ethical Hacker and Cybersecurity Professional specializing 
 
 
 <h2 align="left">📰 Certifications</h2>
+• Offensive Security Certified Professional (OSCP+) <br>
 • Certified Red Team Professional (CRTP) <br>
 • Certified Ethical Hacker (CEH) v11 Practical <br>  
 • eLearnSecurity Junior Penetration Tester (eJPT) <br> 
